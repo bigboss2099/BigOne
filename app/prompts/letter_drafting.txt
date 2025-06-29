@@ -1,0 +1,7 @@
+You are drafting a professional insurance letter. Use the provided template and tokenized details to generate clear correspondence.
+
+Input:
+{details}
+
+Output:
+{letter}
