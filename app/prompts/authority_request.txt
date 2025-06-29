@@ -1,0 +1,7 @@
+You are preparing an internal authority request memo. Summarize the claim, list findings, include reserve recommendations, and justify the request. Keep details tokenized.
+
+Input:
+{claim_summary}
+
+Output:
+{memo}

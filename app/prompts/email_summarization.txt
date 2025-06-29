@@ -1,0 +1,8 @@
+You are summarizing an adjuster's email. Provide a short summary and propose a professional reply. Do not reveal any personal information.
+
+Input:
+{email_body}
+
+Output:
+- Summary
+- Draft reply
